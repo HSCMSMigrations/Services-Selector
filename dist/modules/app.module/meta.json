@@ -1,0 +1,22 @@
+{
+  "css_assets": [
+    {
+      "url": "https://f.hubspotusercontent00.net/hubfs/3850458/FA15/CSS/all.min.css",
+      "autoload": true,
+      "name": "all.min.css"
+    }
+  ],
+  "external_js": [],
+  "global": false,
+  "help_text": "",
+  "host_template_types": [
+    "PAGE"
+  ],
+  "icon": "react",
+  "js_assets": [],
+  "label": "Services Selector",
+  "other_assets": [],
+  "smart_type": "NOT_SMART",
+  "tags": [],
+  "is_available_for_new_content": true
+}

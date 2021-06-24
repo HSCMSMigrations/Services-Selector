@@ -1,0 +1,22 @@
+[
+  {
+  "name": "hubdb_table",
+  "label": "HubDB Table",
+  "required": false,
+  "locked": false,
+  "inline_help_text": "",
+  "help_text": "",
+  "type": "hubdbtable",
+  "placeholder": "",
+  "default": null },
+  {
+    "name": "services",
+    "label": "Services",
+    "required": false,
+    "locked": false,
+    "inline_help_text": "",
+    "help_text": "",
+    "type": "hubdbtable",
+    "placeholder": "",
+    "default": null }  
+]
